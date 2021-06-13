@@ -3,3 +3,6 @@ apple
 cake
 persimmon
 chestnut
+bread
+pear
+cashew nut
