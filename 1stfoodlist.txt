@@ -1,8 +1,2 @@
-chocolate  watermelon
-apple
-cake
-persimmon
-chestnut
-bread
-pear
-cashew nut
+chocolate -mystyle
+watermelon -mystyle
