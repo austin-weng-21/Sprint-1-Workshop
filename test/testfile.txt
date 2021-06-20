@@ -1,3 +1,0 @@
-test once
-test twice
-test three times
