@@ -3,3 +3,5 @@ pear
 cucumber
 persimmon
 watermelon
+orange
+banana
